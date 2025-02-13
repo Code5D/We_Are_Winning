@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/We_Are_Winning/MyProject4/Content/LEVELS/NewMap.umap",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/Blueprint/Arrow.uasset",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/Blueprint/BP_Plaka.uasset",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/Blueprint/BP_FPS_Character.uasset",
@@ -13,7 +14,6 @@
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/LEVELS/NewMap.umap",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/UI/WB_Kutlama.uasset",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/Image/image.uasset",
-				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/UI/WB_MasterUI.uasset",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/UI/WB_MasterUI.uasset",
 				"C:/Users/tunad/OneDrive/Desktop/MyProject4/Content/Blueprint/Buton.uasset",
 				"C:/UnreaLFPS/MyProject4/Content/Blueprint/BP_FPS_Character.uasset",
